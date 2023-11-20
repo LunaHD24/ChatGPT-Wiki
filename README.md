@@ -8,8 +8,9 @@ Because of the character limit we have to come up with other solutions than just
 **Possible approaches:**
 1. If your dataset (including the user's question) doesn't exceed ChatGPT's character limit of 4096 characters you can just put the dataset at the end and add the users question to the end (as seen below).
 
-  ### Example
-  **Input prompt:**
-  ![Screenshot of an example dataset for ChatGPT](https://github.com/LunaHD24/ChatGPT-Wiki/blob/main/ressources/dataset1.png)
-  **ChatGPT's Answer:**
-  ![Screenshot of an example answer to a question from ChatGPT](https://github.com/LunaHD24/ChatGPT-Wiki/blob/main/ressources/datasetAnswer1.png)
+### Example
+**Input prompt:**
+![Screenshot of an example dataset for ChatGPT](https://github.com/LunaHD24/ChatGPT-Wiki/blob/main/ressources/dataset1.png)
+
+**ChatGPT's Answer:**
+![Screenshot of an example answer to a question from ChatGPT](https://github.com/LunaHD24/ChatGPT-Wiki/blob/main/ressources/datasetAnswer1.png)
