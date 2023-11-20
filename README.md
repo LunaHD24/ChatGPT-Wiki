@@ -1,7 +1,6 @@
 # ChatGPT Wiki
 This is a documentation about how to use ChatGPT as a 'smart' wiki to provide answers to user questions.
 
-## Idea
 The basic idea is to give ChatGPT a sort of instruction set on what it should provide as an answer. Basically a look-up table. This can for example be used in certain applications so the user doesn't have to contact the support if he has a question, instead he can just ask a question about the application which will be answered by ChatGPT (using the instruction set) to provide a senseful human-like answer. This could be implemented by making an API-Request to ChatGPT including the instruction set, adding the users question at the end.
 Because of the character limit we have to come up with other solutions than just putting all the info into one prompt, as that would exceed this limit. I've listed three possible approaches below.
 
