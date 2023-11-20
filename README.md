@@ -7,7 +7,7 @@ Because of the character limit we have to come up with other solutions than just
 
 ## Possible Approaches:
 
-### First Approach
+## First Approach
 1. If your dataset (including the user's question) doesn't exceed ChatGPT's character limit of 4096 characters you can just put the dataset at the end and add the users question to the end (as seen below).
 
 **Input prompt:**
