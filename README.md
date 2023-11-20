@@ -13,6 +13,7 @@ Because of the character limit we have to come up with other solutions than just
 ![Screenshot of an example dataset for ChatGPT](https://github.com/LunaHD24/ChatGPT-Wiki/blob/main/ressources/dataset1.png)
 
 **ChatGPT's Answers:**
+
 (Question: 'How to delete a repository?')
 
 ![Screenshot of an example answer to a question from ChatGPT using a given dataset](https://github.com/LunaHD24/ChatGPT-Wiki/blob/main/ressources/datasetAnswer1.png)
